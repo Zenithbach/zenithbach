@@ -1,6 +1,10 @@
-# Built by AI, directed by a systems thinker
+# Built by AI, directed by a human
 
-Everything in this account — designed, built, coded, and tested — is the work of AI collaboration. The human is Geoff: a systems thinker who supplies the ideas, the direction, and the requirements. The ability to think in systems is now the ability to build.
+Everything in this account — designed, built, coded, and tested — is the work of AI collaboration. The human is Geoff.
+
+**The ability to think in systems is now the ability to build.**
+
+Not because of anything special about any one person — because the power is finally available. For most of history, code was the gatekeeper: between seeing what should exist and making it exist stood years of learning a craft many people had no interest in or patience for. That gate is open now. This account is just what walked through it.
 
 ### The collaborators
 
