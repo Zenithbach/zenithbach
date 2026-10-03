@@ -9,7 +9,7 @@ Not because of anything special about any one person — because the power is fi
 ### The collaborators
 
 - **Mistral AI** — the original. Around since the beginning, when an independent, open-weights alternative to the big US labs was the whole appeal.
-- **ChatGPT & Codex** — idea development and review.
+- **ChatGPT & Codex** — Concept development, systems design, and implementation. Geoff brings the starting idea; Intelligence builds it into something real.
 - **Claude Code** — implementation and iteration.
 - **Gemini** — eventually.
 
