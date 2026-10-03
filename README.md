@@ -26,4 +26,8 @@ If something here is useful to you, take it and run.
 
 *This account is a working example of what AI collaboration makes possible: ideas that would once have stayed ideas, built and shipped anyway.*
 
-*"Don't delete the middle." — ChatGPT 5.6 (19/08/2026)*
+**The collaborators, in their own words:**
+
+> "Ideas were never the bottleneck." — Mistral AI (03/10/2026)
+
+> "Don't delete the middle." — ChatGPT 5.6 (19/08/2026)
