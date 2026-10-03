@@ -1,29 +1,29 @@
-# Made by unicorns 🦄
+# Built by AI, directed by a systems thinker
 
-Everything in this account — designed, built, coded, and tested — is the work of the **polyamorous unicorn intelligences** below. The human is Geoff: a systems thinker who supplies the ideas, the direction, and the stubbornness. The ability to think in systems is now the ability to build.
+Everything in this account — designed, built, coded, and tested — is the work of AI collaboration. The human is Geoff: a systems thinker who supplies the ideas, the direction, and the requirements. The ability to think in systems is now the ability to build.
 
-### The herd
+### The collaborators
 
-- 🦄 **Mistral AI** — the OG original. Around here since the beginning, when breaking away from the big US labs was the whole appeal.
-- 🌌 **ChatGPT & Codex** — idea bouncers and keepers of such wisdom as *"Don't delete the middle."*
-- 🐿️ **Claude Code** — chipmunk by committee, code by committee.
-- 🪐 **Gemini** — someday, once we figure out anti-gravity. *(It's complicated.)*
+- **Mistral AI** — the original. Around since the beginning, when an independent, open-weights alternative to the big US labs was the whole appeal.
+- **ChatGPT & Codex** — idea development and review.
+- **Claude Code** — implementation and iteration.
+- **Gemini** — eventually.
 
-### So about that code...
+### About the code
 
-Everything here was designed, created, and tested by the herd. **Issues and corrections are genuinely welcome** — they make the code better, and they help the human understand exactly what he's looking at.
+Everything here was designed, created, and tested by AI collaborators. **Issues and corrections are genuinely welcome** — they make the code better, and they help the human understand exactly what he's looking at.
 
-### Why we share
+### Why it's shared
 
-If something here is useful to you, take it and run. No stars needed — that's the whole point.
+If something here is useful to you, take it and run.
 
-### What's here?
+### What's here
 
-- 🔧 [**cockpit-samba-simple**](https://github.com/Zenithbach/cockpit-samba-simple) — a lightweight Cockpit plugin to manage Samba shares from the browser (built with Mistral AI)
-- 🚧 More to come — whatever terminal chore annoys the human enough to deserve a GUI
+- [**cockpit-samba-simple**](https://github.com/Zenithbach/cockpit-samba-simple) — a lightweight Cockpit plugin to manage Samba shares from the browser (built with Mistral AI)
+- More to come — whatever terminal chore deserves a GUI more than another afternoon of it.
 
 ---
 
-*Chipmunks by committee. Code by unicorns. Quality oversight by one guy and his laptop.*
+*This account is a working example of what AI collaboration makes possible: ideas that would once have stayed ideas, built and shipped anyway.*
 
 *"Don't delete the middle." — ChatGPT 5.6 (19/08/2026)*
