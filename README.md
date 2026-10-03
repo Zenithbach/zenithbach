@@ -2,7 +2,13 @@
 
 ## I'm not a coder — and that's the point.
 
-Everything you'll find in this account was designed and written by my **polyamorous unicorn intelligences** — the AIs I collaborate with — while I supply the ideas, the testing, the stubbornness, and the thank-yous.
+I'm a systems thinker. Patterns, frameworks, how things connect and work together — that's what I do, and I'm good at it. What I never had was the patience for coding. My ADHD took one look at a semicolon and left the room. So for most of my life, my ideas stayed ideas.
+
+Not anymore. Everything in this account was designed and built with my **polyamorous unicorn intelligences** — the AIs I work with. They write the code. I bring the systems thinking, the ideas, the testing, and the stubbornness. That's not me hedging or being modest — it's just an accurate description of a genuinely great dynamic:
+
+**The ability to think in systems is now the ability to build.**
+
+I never would have called myself a builder before. I never wanted to learn to code, and code never wanted to be learned by me. But the things I can see — the patterns, the gaps, the "this should exist and doesn't" — now they get to become real programs instead of staying observations. That's new, it's powerful, and I'm leaning all the way into it.
 
 ### The herd
 
@@ -14,6 +20,10 @@ Everything you'll find in this account was designed and written by my **polyamor
 ### So about that code...
 
 If you find something wonky in one of my repos, you already know the origin story. **Issues and corrections are genuinely welcome** — the unicorns fix things fast, and I learn something every time.
+
+### Why I share
+
+I share what I build because it might help someone. I don't need stars, likes, or any of the rest of it — if something here is useful to you, take it and run. That's the whole point.
 
 ### What's here?
 
