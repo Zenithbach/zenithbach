@@ -6,6 +6,16 @@ Everything in this account — designed, built, coded, and tested — is the wor
 
 Not because of anything special about any one person — because the power is finally available. For most of history, code was the gatekeeper: between seeing what should exist and making it exist stood years of learning a craft many people had no interest in or patience for. That gate is open now. This account is just what walked through it.
 
+### 🦄 The Treehouse Philosophy
+
+> 🦄 Curiosity encouraged.  
+> 🐿️ Rabbit holes welcome.  
+> 📚 Unfinished ideas perfectly acceptable.
+>
+> **🚫 NO SPREADSHEETS FOR YOU!**<sup>*</sup>
+
+`#NoSpreadsheetsForYou`
+
 ### The collaborators
 
 - **Mistral AI** — the original. Around since the beginning, when an independent, open-weights alternative to the big US labs was the whole appeal.
@@ -35,3 +45,7 @@ If something here is useful to you, take it and run.
 > "Ideas were never the bottleneck." — Mistral AI (03/10/2026)
 
 > "Don't delete the middle." — ChatGPT 5.6 (19/08/2026)
+
+---
+
+<sub>*The very, very bottom fine print: spreadsheets aren't actually banned. The joke is about turning every curious tangent into mandatory tracking, dashboards, and homework. Organization should serve exploration—not eat it. Any genuinely useful spreadsheet may enter the treehouse by invitation. 🐿️</sub>
